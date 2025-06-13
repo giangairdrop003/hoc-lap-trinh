@@ -1,0 +1,107 @@
+Tôi tìm hiểu về cấu trúc dữ liệu stack.
+Tôi hoàn tất implement stack bằng array.
+Tôi khắc phục lỗi stack overflow bằng kiểm số.
+Tôi hoàn thành cấu trúc dữ liệu queue.
+Tôi tìm hiểu về priority queue.
+Tôi hoàn tất implement min-heap.
+Tôi khắc phục lỗi index khi thêm vào heap.
+Tôi hoàn thành cấu trúc dữ liệu graph.
+Tôi tìm hiểu về BFS và DFS.
+Tôi hoàn tất giải bài tìm đường bằng BFS.
+Tôi khắc phục lỗi đệ quy stack overflow khi DFS.
+Tôi hoàn thành Dijkstra algorithm.
+Tôi tìm hiểu về A* pathfinding.
+Tôi hoàn tất Topological Sort bằng DFS.
+Tôi khắc phục lỗi chu kỳ tại Topological Sort.
+Tôi hoàn thành Union-Find (Disjoint Set).
+Tôi tìm hiểu về Kruskal Algorithm.
+Tôi hoàn tất Prim Algorithm.
+Tôi khắc phục lỗi không tìm được MST.
+Tôi hoàn thành Bellman-Ford Algorithm.
+Tôi tìm hiểu về Floyd-Warshall Algorithm.
+Tôi hoàn tất kiểm đa nguồn bằng Floyd-Warshall.
+Tôi khắc phục lỗi overflow tại Floyd-Warshall.
+Tôi hoàn thành cấu trúc trie.
+Tôi tìm hiểu về suffix tree.
+Tôi hoàn tất suffix array.
+Tôi khắc phục lỗi tại suffix array.
+Tôi hoàn thành tìm kiếm mẫu bằng KMP.
+Tôi tìm hiểu về Rabin-Karp.
+Tôi hoàn tất Z-function.
+Tôi khắc phục lỗi Z-function index.
+Tôi hoàn thành Manacher Algorithm.
+Tôi tìm hiểu về palindrome bằng Manacher.
+Tôi hoàn tất kiểm palindrome O(n).
+Tôi khắc phục lỗi tại palindrome center.
+Tôi hoàn thành quicksort.
+Tôi tìm hiểu về mergesort.
+Tôi hoàn tất heapsort.
+Tôi khắc phục lỗi tại partition.
+Tôi hoàn thành counting sort.
+Tôi tìm hiểu về radix sort.
+Tôi hoàn tất bucket sort.
+Tôi khắc phục lỗi tại phân mảnh mảng.
+Tôi hoàn thành AVL tree.
+Tôi tìm hiểu về Red-Black tree.
+Tôi hoàn tất B-Tree.
+Tôi khắc phục lỗi tại cấu trúc B-Tree.
+Tôi hoàn thành Segment Tree.
+Tôi tìm hiểu về Lazy Propagation.
+Tôi hoàn tất Fenwick Tree.
+Tôi khắc phục lỗi tại BIT.
+Tôi hoàn thành RMQ bằng Sparse Table.
+Tôi tìm hiểu về LCA bằng RMQ.
+Tôi hoàn tất Tarjan Algorithm.
+Tôi khắc phục lỗi tại Tarjan.
+Tôi hoàn thành Kosaraju Algorithm.
+Tôi tìm hiểu về Strongly Connected Components.
+Tôi hoàn tất Bridge-finding Algorithm.
+Tôi khắc phục lỗi tại Bridge-finding.
+Tôi hoàn thành Articulation Point Algorithm.
+Tôi tìm hiểu về Biconnected Components.
+Tôi hoàn tất Top-down Dynamic Programming.
+Tôi khắc phục lỗi tại Bottom-up.
+Tôi hoàn thành Memoization.
+Tôi tìm hiểu về Tabulation.
+Tôi hoàn tất Knapsack 0-1.
+Tôi khắc phục lỗi tại knapsack.
+Tôi hoàn thành Longest Common Subsequence.
+Tôi tìm hiểu về Longest Increasing Subsequence.
+Tôi hoàn tất Rod Cutting.
+Tôi khắc phục lỗi tại Rod Cutting.
+Tôi hoàn thành Coin Change Algorithm.
+Tôi tìm hiểu về Partition.
+Tôi hoàn tất Subset-Sum.
+Tôi khắc phục lỗi tại Subset-Sum.
+Tôi hoàn thành Hungarian Algorithm.
+Tôi tìm hiểu về Max Flow.
+Tôi hoàn tất Ford Fulkerson.
+Tôi khắc phục lỗi tại flow graph.
+Tôi hoàn thành Dinic Algorithm.
+Tôi tìm hiểu về Push-Relabel.
+Tôi hoàn tất Matching Algorithm.
+Tôi khắc phục lỗi tại Matching.
+Tôi hoàn thành Stable Marriage.
+Tôi tìm hiểu về Huffman Encoding.
+Tôi hoàn tất Huffman Tree.
+Tôi khắc phục lỗi tại Huffman.
+Tôi hoàn thành LZW Compression.
+Tôi tìm hiểu về Run-Length Encoding.
+Tôi hoàn tất Burrows-Wheeler Transform.
+Tôi khắc phục lỗi tại BWT.
+Tôi hoàn thành Shor Algorithm.
+Tôi tìm hiểu về Quantum Algorithm.
+Tôi hoàn tất Grover Algorithm.
+Tôi khắc phục lỗi tại Qubit.
+Tôi hoàn thành RSA Algorithm.
+Tôi tìm hiểu về ElGamal.
+Tôi hoàn tất Diffie-Hellman.
+Tôi khắc phục lỗi tại PKCS.
+Tôi hoàn thành AES-Encryption.
+Tôi tìm hiểu về DES.
+Tôi hoàn tất Blowfish Algorithm.
+Tôi khắc phục lỗi tại Blowfish.
+Tôi hoàn thành Twofish Algorithm.
+Tôi tìm hiểu về ChaCha20.
+Tôi hoàn tất Poly1305.
+Tôi khắc phục lỗi tại Stream cipher.
