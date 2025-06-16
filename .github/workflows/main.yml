@@ -34,7 +34,7 @@ jobs:
       - name: Commit and push
         run: |
           git config user.name "kevin"
-          git config user.email "giangairdrop003@gmail"
+          git config user.email "giangairdrop003@gmail.com"
           git add logs/
           git commit -m "🧠 Daily AI Note for $(date '+%Y-%m-%d')" || echo "Không có gì để commit"
           git pull --rebase
